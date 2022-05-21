@@ -35,7 +35,6 @@ document.addEventListener("DOMContentLoaded",()=>{
     }}).then(res=>{
       return res.json();
     }).then(data=>{
-        provinceSelector.replaceChildren();
       for(i in data){
                const option=document.createElement("option");
                option.setAttribute("value",data[i].name);
