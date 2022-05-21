@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sud-Kivu",
+        "district": [
+            "uvira",
+            "shabunda",
+            "mwenga",
+            "fizi",
+            "kabare",
+            "kalehe",
+            "idjwi",
+            "walungu"
+        ]
+    },
+    {
+        "name": "Nord-Kivu",
+        "district": [
+            "Masisi",
+            "Walikale",
+            "Butembo",
+            "Beni",
+            "Rutshuru",
+            "Nyiragongo"
+        ]
+    }
+]
