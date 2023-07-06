@@ -34,5 +34,247 @@
             "Pangi",
             "Punia"
         ]
+    },
+    {
+        "name": "Bas-Uele",
+        "district": [
+            "Aketi",
+            "Ango",
+            "Bambesa",
+            "Bondo",
+            "Buta",
+            "Poko"
+        ]
+    },
+    {
+        "name": "Maniema",
+        "district": [
+            "Kabambare",
+            "kailo",
+            "Kasongo",
+            "Kibombo",
+            "Lubutu",
+            "Pangi",
+            "Punia"
+        ]
+    },
+    {
+        "name": "Equateur",
+        "district": [
+            "Basankusu",
+            "Bikoro",
+            "Bolomba",
+            "Bomongo",
+            "Ingende",
+            "Lukolela",
+            "Mankaza"
+        ]
+    },
+    {
+        "name": "Haut-Katanga",
+        "district": [
+            "Kambove",
+            "Kasenga",
+            "Kipushi",
+            "Mitwaba",
+            "Pweto",
+            "Sakania"
+        ]
+    },
+    {
+        "name": "Haut-Lomami",
+        "district": [
+            "Bukama",
+            "Kabongo",
+            "Kamina",
+            "Kaniama",
+            "Malemba-Nkulu"
+        ]
+    },
+    {
+        "name": "Haut-Uele",
+        "district": [
+            "Dungu",
+            "Faradje",
+            "Niangara",
+            "Rungu",
+            "Wamba",
+            "Watsa"
+        ]
+    },
+    {
+        "name": "Ituri",
+        "district": [
+            "Aru",
+            "Djungu",
+            "Irumu",
+            "Mahagi",
+            "Mambasa"
+        ]
+    },
+    {
+        "name": "Kasaï central",
+        "district": [
+            "Dekese",
+            "Demba",
+            "Dibaya",
+            "Dimbelenge",
+            "Ilebo",
+            "Kamonia",
+            "Kazumba",
+            "Lubudi",
+            "Luebo",
+            "Luiza",
+            "Mweka"
+        ]
+    }
+    ,
+    {
+        "name": "Kasaï oriental",
+        "district": [
+            "Kabeya-Kamwanga",
+            "Katanda",
+            "Lupatapata",
+            "Miabi",
+            "Tshilenge",
+            "Kasangulu"
+        ]
+    }
+    ,
+    {
+        "name": "Kongo central",
+        "district": [
+            "Kimvula",
+            "Lukula",
+            "Luozi",
+            "Madimba",
+            "Mbanza-Ngungu",
+            "Moanda",
+            "Seke-Banza",
+            "Songololo",
+            "Tshela"
+        ]
+    },
+    {
+        "name": "Kwango",
+        "district": [
+            "Feshi",
+            "Kahemba",
+            "Kasongo-Lunda",
+            "Kenge",
+            "Popokabaka"
+        ]
+    },
+    {
+        "name": "Kwilu",
+        "district": [
+            "Bagata",
+            "Bulungu",
+            "Gungu",
+            "Idiofa",
+            "Masi-Manimba"
+        ]
+    },
+    {
+        "name": "Lomami",
+        "district": [
+            "Kabinda",
+            "Kamiji",
+            "Lubao",
+            "Luilu",
+            "Ngandajika"
+        ]
+    },
+    {
+        "name": "Lualaba",
+        "district": [
+            "Dilolo",
+            "Kapanga",
+            "Mutshatsha",
+            "Sandoa"
+        ]
+    },
+    {
+        "name": "Mai-Ndombe",
+        "district": [
+            "Bolobo",
+            "Inongo",
+            "Kiri",
+            "Kutu",
+            "Kwamouth",
+            "Mushie",
+            "Oshwe",
+            "Yumbi"
+        ]
+    },
+    {
+        "name": "Mongala",
+        "district": [
+            "Bongandanga",
+            "Bumba",
+            "Lisala"
+        ]
+    },
+    {
+        "name": "Nord-Ubangi",
+        "district": [
+            "Businga",
+            "Mobayi-Mbong",
+            "Yakoma"
+        ]
+    },
+    {
+        "name": "Sankuru",
+        "district": [
+            "Katako-Kombe",
+            "Kole",
+            "Lodja",
+            "Lomela",
+            "Lubefu",
+            "Lusambo"
+        ]
+    },
+    {
+        "name": "Sud-Ubangi",
+        "district": [
+            "Budjala",
+            "Gemena",
+            "Kungu",
+            "Libenge"
+        ]
+    },
+    {
+        "name": "Tanganyika",
+        "district": [
+            "Kabalo",
+            "Kalemie",
+            "Kongolo",
+            "Manono",
+            "Moba",
+            "Nyunzu"
+        ]
+    },
+    {
+        "name": "Tshopo",
+        "district": [
+            "Bafwasende",
+            "Banalia",
+            "Basoko",
+            "Isangi",
+            "Opala",
+            "Ubundu",
+            "Yahuma"
+        ]
+    },
+    {
+        "name": "Tshuapa",
+        "district": [
+            "Befale",
+            "Boende",
+            "Bokungu",
+            "Djolu",
+            "Ikela",
+            "Monkoto"
+        ]
     }
 ]
