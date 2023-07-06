@@ -35,7 +35,9 @@ document.addEventListener("DOMContentLoaded",()=>{
     }}).then(res=>{
       return res.json();
     }).then(data=>{
-      for(i in data){
+       let copyOfData=data;
+       let sorted=copyOfData.sort((a,b)=>(b.name<a.name)?1:-1);
+      for(i in sorted){
                const option=document.createElement("option");
                option.setAttribute("value",data[i].name);
                option.innerHTML=data[i].name;
